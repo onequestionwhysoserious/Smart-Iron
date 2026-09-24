@@ -1,5 +1,6 @@
 streamlit
-tensorflow-cpu
+tensorflow-cpu==2.15.0
+tf-keras
 Pillow
 numpy
 pandas
