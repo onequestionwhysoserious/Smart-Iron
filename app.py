@@ -149,7 +149,7 @@ else:
                            ["Diagnostic Tool", 
                             "Tracker & Trends", 
                             "Location & Labs", 
-                            "Education", 
+                            "Learn More About Hemochromatosis and Anemia", 
                             "FAQ"])
     
     if st.sidebar.button("Log Out"):
